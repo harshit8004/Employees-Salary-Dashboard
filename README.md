@@ -30,7 +30,6 @@ Department Insights
 
 Demographic & Geographic Insights
 
-(You can add screenshots here)
 
 ## How to Use
 Download the .pbix file
